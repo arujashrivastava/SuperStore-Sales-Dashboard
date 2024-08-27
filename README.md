@@ -9,6 +9,7 @@ Interactive Visualizations: Implemented interactive charts, graphs, and slicers 
 Data Quality and Insights: Focused on ensuring data quality and integrity by integrating and cleansing data from various sources. The dashboard provided actionable insights by highlighting areas for improvement and identifying opportunities for strategic growth.
 
 Technologies and Tools Used:
+
 Power BI: Used for creating interactive visualizations, dashboards, and reports.
 Data Modeling: Applied data modeling techniques to structure data efficiently for analysis.
 DAX (Data Analysis Expressions): Utilized DAX for custom calculations and measures to enhance the analytical capabilities of the dashboard.
