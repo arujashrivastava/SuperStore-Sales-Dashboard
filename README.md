@@ -11,7 +11,9 @@ Data Quality and Insights: Focused on ensuring data quality and integrity by int
 Technologies and Tools Used:
 
 Power BI: Used for creating interactive visualizations, dashboards, and reports.
+
 Data Modeling: Applied data modeling techniques to structure data efficiently for analysis.
+
 DAX (Data Analysis Expressions): Utilized DAX for custom calculations and measures to enhance the analytical capabilities of the dashboard.
 
 Impact:
